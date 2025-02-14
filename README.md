@@ -1,6 +1,6 @@
 # Automação de Cadastros
 
-Este projeto tem como finalidade a utilização da linguagem de programação Python realizar uma automação no cadastro de itens de uma base de dados em um site pré-determinado.
+Este projeto tem como finalidade a utilização da linguagem de programação Python para realizar uma automação no cadastro de itens de uma base de dados em um site pré-determinado.
 
 Este sistema consegue:
 - Acessar o site informado;
